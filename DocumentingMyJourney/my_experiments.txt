@@ -6,3 +6,13 @@ as well as potential future refinements. It is intended for
 myself and others who wish to see my progress, train of
 thinking, and what I have been doing.
 ---
+01/07/2025
+- Removing keyboard, battery, and track pad from old laptop
+  to make AlmaLinux server. Removing the battery helps
+  reduce safety concerns and energy consumption. Removing
+  the keyboard and trackpad is to force to to getting more
+  comfortable in the terminal and simulate the workflow of
+  being a server admin.
+  I am also replacing the top of the laptop with a
+  transparent plastic panel to view the internals of the
+  laptop, because it looks cool, that simple!
