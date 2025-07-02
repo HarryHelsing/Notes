@@ -1,6 +1,5 @@
 # My Ideas
 ### A collection of random, often strange techy ideas
----
 Here I will plonk, without restraint, my unfiltered ideas
 regarding Linux and Systems Administration, Rust and
 programming, and any other tech related ideas.
@@ -8,7 +7,6 @@ Some may be overly complex, ambitious, or just kind of
 pointless, but you never know, best store it all and mine
 for gold at a later date.
 Have fun reading!
----
 - Perhaps try making multiple dummy users on AlmaLinux and
   get used to managing permisions in various ways.
 

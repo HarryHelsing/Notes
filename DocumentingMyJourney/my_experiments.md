@@ -1,13 +1,11 @@
 # My Experiments
 ### An ordered list of my various tech related experiments
----
 This list will show what I have attempted, my reflections,
 as well as potential future refinements. It is intended for
 myself and others who wish to see my progress, train of
 thinking, and what I have been doing.
----
-(dd/mm/yyyy)
-02/07/2025
+### (dd/mm/yyyy)
+### 02/07/2025
 - Troubleshooting AlmaLinux install on old laptop. Perhaps
   trying the minimal install ISO would solve this.
 - Minimal ISO did not work. I will check the compatibility
@@ -77,7 +75,7 @@ thinking, and what I have been doing.
   these notes is really helping discharge the extreme
   cognative frustration of simple things I'm used to just
   working suddenly and simply not.
-01/07/2025
+### 01/07/2025
 - Removing keyboard, battery, and track pad from old laptop
   to make AlmaLinux server. Removing the battery helps
   reduce safety concerns and energy consumption. Removing
