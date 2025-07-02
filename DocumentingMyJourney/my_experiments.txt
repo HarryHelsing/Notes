@@ -16,6 +16,31 @@ thinking, and what I have been doing.
   be a good 7 years of security updates in that version
   presuming AlmaLinux follows Red Hat's security support
   timeline.
+- AlmaLinux 9 warned me that my laptop was deprecated
+  hardware. I got a kernal panic not syncing error. Time to try  AlmaLinux 8! The journey continues.
+- Success! AlmaLinux 8 installed. I am faced with the quiet
+  black and white blinking of the terminal, though I am
+  very comfortable in the terminal and use it frequently
+  on my desktop or in a tty when needed, being contronted
+  with this stark potential yet lack of direction that
+  comes when working without a gui, I feel a mix of
+  excitement and mild dread as it dawns on me that I will
+  be living here for a long time. My new home, a black
+  space where the only stars are the soft grey white
+  characters that inform minimally, but clearly.
+- Navigating in the dark, my first time using vi, since
+  vim was not preinstalled. Quite exciting. Though after
+  some research it seems the extra features provided by
+  vim are not fluff, in fact they're quite useful, and as
+  long as I'm comfortable switching to vi when needed, I
+  see no harm in installing vim.
+- Ahhh, permission issues. My main account is not in the
+  sudoers file, apparently this incident will be reported.
+  As I am the one running the root account it appears I
+  have been reported to myself. Do not worry, I shall not
+  succumb to my own bias, I can be trusted to judge these
+  attempts of breaching privilege with stern and swift
+  justice.
 01/07/2025
 - Removing keyboard, battery, and track pad from old laptop
   to make AlmaLinux server. Removing the battery helps
