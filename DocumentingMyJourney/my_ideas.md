@@ -11,3 +11,4 @@ Have fun reading!
 ---
 - Perhaps try making multiple dummy users on AlmaLinux and
   get used to managing permisions in various ways.
+

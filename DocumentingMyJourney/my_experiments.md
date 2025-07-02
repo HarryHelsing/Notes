@@ -18,7 +18,8 @@ thinking, and what I have been doing.
   presuming AlmaLinux follows Red Hat's security support
   timeline.
 - AlmaLinux 9 warned me that my laptop was deprecated
-  hardware. I got a kernal panic not syncing error. Time to try  AlmaLinux 8! The journey continues.
+  hardware. I got a kernal panic not syncing error. Time to
+  try AlmaLinux 8! The journey continues.
 - Success! AlmaLinux 8 installed. I am faced with the quiet
   black and white blinking of the terminal, though I am
   very comfortable in the terminal and use it frequently
@@ -86,3 +87,4 @@ thinking, and what I have been doing.
   I am also replacing the top of the laptop with a
   transparent plastic panel to view the internals of the
   laptop, because it looks cool, that simple!
+
