@@ -4,6 +4,7 @@ This list will show what I have attempted, my reflections,
 as well as potential future refinements. It is intended for
 myself and others who wish to see my progress, train of
 thinking, and what I have been doing.  
+\
 *(dd/mm/yyyy)*
 ### 02/07/2025
 - Troubleshooting AlmaLinux install on old laptop. Perhaps
