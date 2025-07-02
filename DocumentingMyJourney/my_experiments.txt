@@ -71,6 +71,11 @@ thinking, and what I have been doing.
   will, eventually, become familiar and homely, even if
   mystery still lurks within the further regions of the
   great Gormenghastian castle of Linux.
+- Time for a break, after a few hours and several rabbit
+  holes I still have not managed to install vim. Writing
+  these notes is really helping discharge the extreme
+  cognative frustration of simple things I'm used to just
+  working suddenly and simply not.
 01/07/2025
 - Removing keyboard, battery, and track pad from old laptop
   to make AlmaLinux server. Removing the battery helps
