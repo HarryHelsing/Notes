@@ -6,6 +6,16 @@ as well as potential future refinements. It is intended for
 myself and others who wish to see my progress, train of
 thinking, and what I have been doing.
 ---
+02/07/2025
+- Troubleshooting AlmaLinux install on old laptop. Perhaps
+  trying the minimal install ISO would solve this.
+- Minimal ISO did not work. I will check the compatibility
+  with AlmaLinux and my hardware.
+- I am trying AlmaLinux 9 instead of 10, perhaps there will
+  be better support for older hardware. There still should
+  be a good 7 years of security updates in that version
+  presuming AlmaLinux follows Red Hat's security support
+  timeline.
 01/07/2025
 - Removing keyboard, battery, and track pad from old laptop
   to make AlmaLinux server. Removing the battery helps
