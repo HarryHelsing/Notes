@@ -6,7 +6,42 @@ myself and others who wish to see my progress, train of
 thinking, and what I have been doing.  
 \
 *(dd/mm/yyyy)*
-### 02/07/2025
+### 03/07/2025
+- Good morning, it is quarter to six, morning coffee
+  numero uno has been absorbed, the golden sun rays stream
+  through my windows and it's time to fix those bloody
+  unmanaged wifi drivers.
+- Coffee numero duo, I'm starting to think the tech world
+  has a real issue with documentation, that by the time
+  developers and admins have gone through the trials and
+  tribulations of actually understanding and achieving what
+  they set out to do they are so exhausted and burnt out
+  that to document their findings is to relive the trauma
+  and oh my, we can't have that.
+  I aspire to be a good documentor, to learn and refine
+  this practice. Please, someone help me with these
+  unmanaged wifi drivers.
+- Further reflections, I think now I want to develop
+  systems admin skill it's best I change my usual approach
+  of change things until I get it working, to aquiring
+  tools for diagnostics and understanding, so I can
+  implement changes decisively without making stupid
+  errors. I am still wrestling with the wifi drivers.
+- Personal thought: Maybe programming isn't as difficult
+  as we think it is? Perhaps we make it difficult. Among
+  all the frameworks, unexplained jargon, sloppy design,
+  perhaps this is where the true difficulty lies. Sure, I'm
+  not saying programming is easy, it's very dense and
+  layered, but it seems to be this culture of pushing
+  through, ignoring the discomfort and confusion that gets
+  us stuck. Yes programming is supposed to be a puzzle at
+  times, but perhaps not a frustrating headache, perhaps we
+  make it that.
+### 02/07/2025 - Azoth is Born
+- Today I will try to set up my old computer as a server.
+  I will name it Azoth after the universal solvent in
+  alchemy, for its job will be to be the interface between
+  all my other devices.
 - Troubleshooting AlmaLinux install on old laptop. Perhaps
   trying the minimal install ISO would solve this.
 - Minimal ISO did not work. I will check the compatibility
@@ -76,7 +111,7 @@ thinking, and what I have been doing.
   these notes is really helping discharge the extreme
   cognative frustration of simple things I'm used to just
   working suddenly and simply not.
-### 01/07/2025
+### 01/07/2025 - Preparing the Form
 - Removing keyboard, battery, and track pad from old laptop
   to make AlmaLinux server. Removing the battery helps
   reduce safety concerns and energy consumption. Removing
