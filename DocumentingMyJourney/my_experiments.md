@@ -6,7 +6,7 @@ myself and others who wish to see my progress, train of
 thinking, and what I have been doing.  
 \
 *(dd/mm/yyyy)*
-### 04/07/2025
+### 04/07/2025 - You Shall Not Pass
 - After much faffing I've come to the conclusion that it's
   because I have used a minimal install that the wifi is
   not working. Since I haven't used the full fat version
