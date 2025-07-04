@@ -6,7 +6,38 @@ myself and others who wish to see my progress, train of
 thinking, and what I have been doing.  
 \
 *(dd/mm/yyyy)*
-### 03/07/2025
+### 04/07/2025
+- After much faffing I've come to the conclusion that it's
+  because I have used a minimal install that the wifi is
+  not working. Since I haven't used the full fat version
+  it's probably missing a bunch of drivers. Now I could
+  faff around trying to install a driver, finding an
+  ethernet cable, looking for the right driver, or instead
+  I could simply install the full version of AlmaLinux and
+  disable the GUI (graphical user interface).
+- Perhaps if I fix this issue soon I can figure out how to
+  SSH into my commputer and use it remotely.
+- Multi-layered problem. I want wifi drivers. How do I get
+  wifi drivers? Through the internet? Can't find an
+  ethernet cable. Through the full fat version of
+  AlmaLinux? It's 13gb big and the only usb drive I own is
+  8gb. That is what I call a bottleneck. But! Perhaps all
+  is not lost, there may be a way. I have a plug in hard
+  drive, perhaps I could install the drivers and their
+  dependancies on that drive, then transfer them over to
+  Azoth. Interesting plan however here are some thoughts:
+  Since Theseus, my main laptop, is Ubuntu/Debian based,
+  I'm unsure how straight forward it would be to download drivers  for a RHEL based distro, perhaps they're the same?
+  Also it has occured to be the idea of using my hard drive
+  as a make shift ISO for the full fat AlmaLinux, but I
+  dare not mess around with the formating of the drive.
+  Now I just need to think which path is the most sensible;
+  buying an ethernet cable, looking harder for an ethernet
+  cable, buying a bigger USB, going through some crazy
+  (probably traumatising) driver transferal process using my
+  hard drive, or throwing my laptop off a building onto a
+  slab of concrete.
+### 03/07/2025 - Weary Wifi Wandering
 - Good morning, it is quarter to six, morning coffee
   numero uno has been absorbed, the golden sun rays stream
   through my windows and it's time to fix those bloody
@@ -37,6 +68,10 @@ thinking, and what I have been doing.
   us stuck. Yes programming is supposed to be a puzzle at
   times, but perhaps not a frustrating headache, perhaps we
   make it that.
+- I need to improve my diagnostic toolbelt. I have been
+  fiddling with this wifi situation in the dark and I
+  really need to understand what I'm doing and the
+  landscape behind it.
 ### 02/07/2025 - Azoth is Born
 - Today I will try to set up my old computer as a server.
   I will name it Azoth after the universal solvent in
