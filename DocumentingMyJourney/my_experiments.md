@@ -29,6 +29,10 @@ thinking, and what I have been doing.
 - Switching tasks now, since I am at a bottleneck regarding
   Azoth, the server laptop. I will refresh my mind as to
   where I was with the language learning app.
+- Introducing my friend to github is an interesting
+  experience. It makes me realise the barrier to entry
+  using new technology. I forget how confusing these things
+  used to be for me.
 ### 04/07/2025 - You Shall Not Pass
 - After much faffing I've come to the conclusion that it's
   because I have used a minimal install that the wifi is
