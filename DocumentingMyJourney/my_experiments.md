@@ -1,11 +1,34 @@
-# My Experiments
-### An ordered list of my various tech related experiments
+# My Reflections and Experiments
+### An chronological list of tech related musings
 This list will show what I have attempted, my reflections,
 as well as potential future refinements. It is intended for
 myself and others who wish to see my progress, train of
 thinking, and what I have been doing.  
 \
 *(dd/mm/yyyy)*
+### 05/07/2025 - 
+- Why have I been trying to set up WiFi for all these days?
+  There is only one true answer. Ethernet.
+  I see the light, it's clear to me now. WiFi is bloat.
+  The cable is energy efficient, marginally, faster, and
+  won't hog my bandwidth. As I am at my friend's house I am
+  unable to go on the hunt for a cable today, so perhaps I
+  continue working on my language learning note taking app
+  so I can eventually stop procrastinating learning Italian.
+- Some good tools I have heard of, Teal Deer, a straight
+  forward explanaition of the 'man' aka manual pages for
+  Linux. I also saw a tool where you could download ofline
+  wikis such as the Arch, Gentoo, or others to be able to
+  get useful information without needing to rely on web
+  searching, very handy! Wikiman I believe it's called.
+- So after installing wikiman I encountered some errors,
+  now I came to understand that I have been missing
+  depenndancies, since I installed through GitHub. A small
+  realisation but the whole Linux structure is beginning to
+  come sharper into focus now.
+- Switching tasks now, since I am at a bottleneck regarding
+  Azoth, the server laptop. I will refresh my mind as to
+  where I was with the language learning app.
 ### 04/07/2025 - You Shall Not Pass
 - After much faffing I've come to the conclusion that it's
   because I have used a minimal install that the wifi is
