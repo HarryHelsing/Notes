@@ -6,7 +6,7 @@ myself and others who wish to see my progress, train of
 thinking, and what I have been doing.  
 \
 *(dd/mm/yyyy)*
-### 05/07/2025 - 
+### 05/07/2025 - Peace? I hope
 - Why have I been trying to set up WiFi for all these days?
   There is only one true answer. Ethernet.
   I see the light, it's clear to me now. WiFi is bloat.
