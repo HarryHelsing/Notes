@@ -6,6 +6,38 @@ myself and others who wish to see my progress, train of
 thinking, and what I have been doing.  
 \
 *(dd/mm/yyyy)*
+### 07/07/2025
+- Still in need of a palate cleanser I think I will
+  research the workings of 'Iced' an Elm inspired GUI
+  library in Rust. Elm is a functional language used to
+  do graphical interfaces, what's so cool about it is how
+  it holds the 'state' of the application as one thing,
+  then how it looks is managed seperately. What this means
+  is that you sidestep the usual messy process of having
+  many layers of buttons and logic all intertwined like
+  some kind of tangled spaghetti code. So Iced is the Rust
+  equivalent, and since Rust is such a safety and
+  correctness focused language it should be a very good fit
+  for a GUI library in the Elm style.
+- I'm looking into tmux as a way to improve consistency
+  with my workflow. I spend a lot of time setting up
+  terminals that could be reduced with good presets.
+### 06/07/2025 - A much needed break
+- Switching over to my language learning app is a good
+  palate cleanser. I learned a little something about
+  .gitignore and how to customise it a bit better. Most of
+  the time in the programming space individual things are
+  not too hard to learn, it's just a matter of putting it
+  all together in a logical way. Which leads me to a theory
+  about learning I may adopt. Rather than thinking, I
+  should learn as much as I can then cramming information,
+  perhaps it's better to learn something small, powerful
+  and useful, then try to implement it as effectively as
+  possible. I theorise that if you know less stuff, but
+  have taken the time to learn those things deeper and
+  integrate that knowledge with the rest of what you know
+  then you will be more robust and effective. Especially if
+  you have taken time to choose your tools wisely.
 ### 05/07/2025 - Peace? I hope
 - Why have I been trying to set up WiFi for all these days?
   There is only one true answer. Ethernet.
